@@ -4,4 +4,5 @@ Hice un juego de adivinar palabras en Python bastante simple pero funcional, inc
 # Cosas por añadir
 - Implementar un muñequito que cambie cada vez que el jugador introduzca una letra incorrecta
 - Nivel de dificultades
-- Categorias de palabras
+- Categorias de palabras ✔
+- Validar letras duplicadas
